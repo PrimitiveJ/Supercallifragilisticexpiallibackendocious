@@ -14,7 +14,7 @@
   ## Installation
   Requires all dependencies in package.json (Node/Express/Sequelize/Dotenv). Run NPM I. Initialize database, seed database, start server. Done. 
   ## Usage
-  Use it to framework out a database that interacts with a server using RESTful API calls. 
+  Use it to framework out a server that interacts with a database using RESTful API calls. 
   ## License
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
   ## Contributions
